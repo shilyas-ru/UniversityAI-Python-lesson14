@@ -1,0 +1,8 @@
+files: console_file_manager.py, data_files-dirs_json.txt, data_personal_account_json.txt, lesson09_m04_victory.py, personal_account.py, ReadMe.txt
+dirs: .idea, 1, venv, __pycache__
+
+Используем декоратор.
+Ничего не изменится (то есть, вывод в файл будет такой же как и ранее), так как декоратор только добавляет вывод в консоль.
+
+files: console_file_manager.py, data_files-dirs_json.txt, data_personal_account_json.txt, lesson09_m04_victory.py, personal_account.py, ReadMe.txt
+dirs: .idea, 1, venv, __pycache__
